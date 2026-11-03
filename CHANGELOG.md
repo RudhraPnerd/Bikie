@@ -23,7 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Repository Setup & Open Source Release:**
   - Initialized public repository structure with Xcode project configuration (`Bikie.xcodeproj`).
   - Implemented standard open-source metadata and guidelines: `README.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md`, and `SUPPORT.md`.
-  - Added `.gitignore` configured specifically for Xcode artifacts and user state privacy.
 - **Core App Architecture:**
   - `MainTabView`: Multi-tab navigation structure for seamless switching between Home, Routes, Bikes, and Settings.
   - `BikeDetailView`: Dedicated bike management interface for tracking individual bike models and total kilometers.
