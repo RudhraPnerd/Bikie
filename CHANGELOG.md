@@ -29,3 +29,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - **MapKit Integration:** Initial setup for trip mapping and route visualization.
   - **Local Notifications:** Configured `UserNotifications` framework for ride reminders.
   - **Google Sign-In:** Integrated authentication flow via Swift Package Manager.
+
+ ---
+
+ ## [Unreleased]
+
+ ### Planned / Upcoming Features
+ App settings for users to configure and customize
